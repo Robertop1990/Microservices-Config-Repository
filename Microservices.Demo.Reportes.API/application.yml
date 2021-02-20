@@ -1,4 +1,3 @@
-ConnectionStrings: 
-    PolicyConnection: Data Source=microservices.demo.policy.db;Initial Catalog=Microservices.Demo.Policy;Persist Security Info=True;User ID=sa;Password=Password1234
 ServicesUrl:
-    PricingApiUrl: https://Microservices.Demo.Pricing.API/api/pricing  
+    PolicyApiUrl: https://Microservices.Demo.Policy.API/api/policies
+    ProductApiUrl: https://Microservices.Demo.Product.API/api/products
